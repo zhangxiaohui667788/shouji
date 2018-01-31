@@ -1,0 +1,115 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-23 21:38:34
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-01-25 00:09:04
+*/
+
+.jishen{
+     width: 207px;
+     height: 424px;
+     border-radius: 30px;
+     background: #E6E6E6; 
+      border:2px solid #E4B69F;      
+     left: 0px;
+     position: absolute;
+     margin: 50px;
+     margin-top: 0px;
+
+
+}
+.limian{
+	 width:194px;
+     height:344px;
+     /* background: red; */
+     border-radius: 3px;  
+     background: #67F5A9   ;   
+     border: 1px solid #272822;
+     top: 41px;
+     position: absolute;
+         margin: 50px;
+     margin-top: 0px;
+
+
+
+}
+.xiaoyuan{
+     width: 10px;
+     height: 9px;
+     border-radius:50%;
+     background: #12110D;
+     left: 133px;
+     top: 8px;
+     position: absolute;
+
+}
+
+.tuoyuan{
+     width: 34px;
+     height: 4px;
+     border-radius:25px;
+     background: #12110D;
+     left: 88px;
+     top: 10px;
+     position: absolute;
+}
+.xiaotuoyuan{
+     width: 9px;
+     height: 5px;
+     border-radius:25px;
+     background: #12110D;
+     left: 66px;
+     top: 9px;
+     position: absolute;
+
+  
+}
+.anniu{
+     width: 43px;
+     height: 23px;
+     border-radius:30px;
+     background: #E6E6E6;
+     border: 1px solid #514343;
+     left: 83px;
+     top: 392px;
+     position: absolute;
+     
+}
+/* 反面 */
+.fanjishen{
+     width: 207px;
+     height: 424px;
+     border-radius: 30px;
+     background:#F3DCC5;  
+      border:2px solid  #E4B69F;      
+     right: 600px;
+     text-align: center;
+     line-height: 230px;
+     font-size: 18px;
+     position: absolute;
+}
+.DAYUAN{
+
+     width: 28px;
+     height: 28px;
+     border-radius: 50%;
+     background: #12110D;
+     right: 130px;
+     top: 10px;
+     left: 21px;
+     position: absolute;
+    
+}
+.XIAOYUAN{
+     width: 13px;
+     height: 13px;
+     border-radius: 50%;
+     background: #12110D;
+     top: 45px;
+     left: 28px;
+     position: absolute;
+     
+
+
+
+}
